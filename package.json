@@ -1,0 +1,15 @@
+{
+  "name": "demo-node",
+  "version": "1.0.0",
+  "description": "This is the demo node for the express and node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RRPatel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pug": "^3.0.2"
+  }
+}
